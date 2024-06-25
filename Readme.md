@@ -1,13 +1,13 @@
-Data Science:
-https://github.com/enuguru/DataScienceLevelOne
+Data Science:<br />
+https://github.com/enuguru/DataScienceLevelOne<br />
 
-LLD:
-https://github.com/ashishps1/awesome-low-level-design
+LLD:<br />
+https://github.com/ashishps1/awesome-low-level-design<br />
 
-HLD:
-https://github.com/ashishps1/awesome-system-design-resources
-https://github.com/donnemartin/system-design-primer
-https://github.com/binhnguyennus/awesome-scalability
+HLD:<br />
+https://github.com/ashishps1/awesome-system-design-resources<br />
+https://github.com/donnemartin/system-design-primer<br />
+https://github.com/binhnguyennus/awesome-scalability<br />
 
-NewsLetters:
-https://blog.algomaster.io/
+NewsLetters:<br />
+https://blog.algomaster.io/<br />
